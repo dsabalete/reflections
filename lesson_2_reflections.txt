@@ -36,3 +36,11 @@ How do the diagrams help you visualize the branch structure?
     graphically it is easier to understand how a development has evolved.
 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+    A new commit is created mixing changes of the branches, all commits of one 
+    branch are incorporated to the other branch, ordered by time and the merged 
+    branch can be deleted. In the diagram is represented as two lines joining a
+    new node and that node belongs to one of the branches.
+
+
