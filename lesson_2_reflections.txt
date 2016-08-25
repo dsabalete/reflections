@@ -5,10 +5,13 @@ What happens when you initialize a repository? Why do you need to do it?
     of the repository.
 
 
-How is the staging area different from the working directory and the repository? 
-What value do you think it offers?
+How is the staging area different from the working directory and the repository? What value do you think it offers?
 
     The working directory is where there are all files of the project, but the 
     staging area is a subset of files of the working directory that will be commited
     in the next commit.
     
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+   You can compare what you have in the staging area with what you have previously commited. This way, the staging area works as a sandbox where you can place the changes that will be commited.
