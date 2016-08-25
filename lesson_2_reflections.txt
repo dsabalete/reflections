@@ -28,3 +28,11 @@ organized? How would branches help?
     code, or a new version with a different localization is desired but it is 
     also needed to keep the main development aside, branches come to rescue.
     All that cases can be developed in separated branches.
+
+
+How do the diagrams help you visualize the branch structure?
+
+    It is common to say that a picture is worth a thousand words, so 
+    graphically it is easier to understand how a development has evolved.
+
+
