@@ -29,3 +29,12 @@ locally?
 
     It is useful for comparing the branch structure between the local repository
     and the remote one. This way you can solve conflicts easily.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and 
+what would be harder?
+
+    You can propose changes in the remote master based on work you have made in a
+    separated branch. In GitHub you notify the responsible person of the project
+    via a "Pull Request". All the messaging is managed internally by GiHub. It is
+    useful and comfortable.
