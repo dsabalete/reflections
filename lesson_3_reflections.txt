@@ -23,3 +23,9 @@ one instead of another?
     of changes of a repo, experiment with code of the project without afecting
     the main branch, implement a new feature, etc...
 
+
+What is the benefit of having a copy of the last known state of the remote stored 
+locally?
+
+    It is useful for comparing the branch structure between the local repository
+    and the remote one. This way you can solve conflicts easily.
