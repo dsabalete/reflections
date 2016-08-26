@@ -38,3 +38,14 @@ what would be harder?
     separated branch. In GitHub you notify the responsible person of the project
     via a "Pull Request". All the messaging is managed internally by GiHub. It is
     useful and comfortable.
+
+
+When would you want to make changes in a separate branch rather than directly in 
+master? What benefits does each approach have?
+
+    One case could be when you are proposing a change that can affect somebody 
+    else and you need that person agree that change before it be part of the
+    main development. Making changes directly to the master is faster but in case
+    of errors could lead to more work done. Making changes in a separate branch
+    is safer so changes are isolated from the master branch until it is safe to 
+    do so.
